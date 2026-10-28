@@ -1,6 +1,6 @@
-# adprecheck
+# AdPrecheck
 
-adprecheck — vertical AI micro-SaaS tool.
+Catch ad-policy red flags before the platform does. In 60 seconds.
 
 **Live product: https://adprecheck.lxsaihub.com**
 
